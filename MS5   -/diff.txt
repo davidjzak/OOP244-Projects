@@ -1,0 +1,10 @@
+
+In line number 128 of your output:
+The output should be:
+N,1234,box,kg,1,123.45,1,5
+But your output is: 
+N,1234,box,1,kg,5,123.45,1
+           ^
+-----------|
+Professor's character ASCII code: hex(6b), dec(107)
+un-matched character ASCII code: hex(31), dec(49)
